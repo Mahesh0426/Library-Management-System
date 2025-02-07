@@ -1,4 +1,8 @@
-# Library Management System
+#  💰 Library Management System
+
+## 🌐 Live Demo
+[View Live Application](https://library-management-system-fe-blue.vercel.app/)
+
 
 ## Overview
 
